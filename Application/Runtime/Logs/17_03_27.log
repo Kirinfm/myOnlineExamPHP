@@ -1,0 +1,46 @@
+[ 2017-03-27T22:55:04+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/insertquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.008982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.113191s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.062510s ]
+SQL: select max(QuestionID) from question [ RunTime:0.001248s ]
+NOTIC: [8] Undefined index: QuestionID D:\wamp\www\OnlineExamTest\Application\Index\Model\TExamModel.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.034584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.035334s ]
+
+[ 2017-03-27T22:55:29+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/insertquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007193s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.045451s ]
+SQL: select max(QuestionID) from question [ RunTime:0.000913s ]
+NOTIC: [8] Undefined index: QuestionID D:\wamp\www\OnlineExamTest\Application\Index\Model\TExamModel.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004770s ]
+
+[ 2017-03-27T22:55:44+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/insertquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004497s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.036015s ]
+SQL: select max(QuestionID) from question [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003840s ]
+
+[ 2017-03-27T22:56:13+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/insertquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004571s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015587s ]
+SQL: select max(QuestionID) AS QuestionID from question [ RunTime:0.035413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005066s ]
+

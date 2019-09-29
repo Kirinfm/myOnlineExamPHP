@@ -1,0 +1,22 @@
+[ 2017-03-16T00:22:09+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020375s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015395s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.001393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.046424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.047159s ]
+
+[ 2017-03-16T00:22:18+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.024765s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 123456 [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+

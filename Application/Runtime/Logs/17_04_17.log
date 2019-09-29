@@ -1,0 +1,100 @@
+[ 2017-04-17T22:32:33+08:00 ] 192.168.1.102 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.086811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.370684s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.006934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.093914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.094224s ]
+
+[ 2017-04-17T22:41:26+08:00 ] 192.168.1.102 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020179s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.009738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001930s ]
+
+[ 2017-04-17T22:47:11+08:00 ] 192.168.1.102 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.050991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.093997s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.019000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.047020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.047332s ]
+
+[ 2017-04-17T22:55:17+08:00 ] 192.168.1.102 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.117501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.241768s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:2.383069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.123776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.124115s ]
+
+[ 2017-04-17T22:56:24+08:00 ] 192.168.1.102 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.039478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.197050s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.612206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.046241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.046461s ]
+
+[ 2017-04-17T23:31:58+08:00 ] 192.168.1.1 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022113s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.034066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003025s ]
+
+[ 2017-04-17T23:46:20+08:00 ] 127.0.0.1 /index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.037430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038224s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.054608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.015822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016091s ]
+
+[ 2017-04-17T23:53:02+08:00 ] 192.168.1.1 /index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.011872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.073526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.048187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.048434s ]
+
+[ 2017-04-17T23:58:07+08:00 ] 192.168.1.1 /index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.051792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.128034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:1.244508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.060593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.060886s ]
+
+[ 2017-04-17T23:58:50+08:00 ] 192.168.1.1 /index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003293s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.118689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+

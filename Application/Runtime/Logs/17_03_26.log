@@ -1,0 +1,816 @@
+[ 2017-03-26T15:15:41+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045579s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.744236s ]
+NOTIC: [8] Undefined variable: studentid D:\wamp\www\OnlineExamTest\Application\Index\Controller\OthersController.class.php 第 90 行.
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0 [ RunTime:0.038822s ]
+ERR: 1054:Champ 'StudentID' inconnu dans where clause
+ [ SQL语句 ] : UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.038873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.039471s ]
+
+[ 2017-03-26T15:15:41+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.011446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016020s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.065700s ]
+NOTIC: [8] Undefined variable: studentid D:\wamp\www\OnlineExamTest\Application\Index\Controller\OthersController.class.php 第 90 行.
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0 [ RunTime:0.000475s ]
+ERR: 1054:Champ 'StudentID' inconnu dans where clause
+ [ SQL语句 ] : UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004459s ]
+
+[ 2017-03-26T15:16:10+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003742s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.016872s ]
+NOTIC: [8] Undefined variable: studentid D:\wamp\www\OnlineExamTest\Application\Index\Controller\OthersController.class.php 第 90 行.
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0 [ RunTime:0.000771s ]
+ERR: 1054:Champ 'StudentID' inconnu dans where clause
+ [ SQL语句 ] : UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE StudentID = 0
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003026s ]
+
+[ 2017-03-26T15:17:06+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004017s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015220s ]
+NOTIC: [8] Undefined variable: studentid D:\wamp\www\OnlineExamTest\Application\Index\Controller\OthersController.class.php 第 90 行.
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE SchoolID = 0 [ RunTime:0.037628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003157s ]
+
+[ 2017-03-26T15:18:36+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005389s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.031562s ]
+NOTIC: [8] Undefined variable: studentid D:\wamp\www\OnlineExamTest\Application\Index\Controller\OthersController.class.php 第 90 行.
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE SchoolID = 0 [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003430s ]
+
+[ 2017-03-26T15:19:21+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003687s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.030633s ]
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.074598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-03-26T15:20:22+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.053030s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.072792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001445s ]
+
+[ 2017-03-26T15:21:12+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007226s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.042683s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.054926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004960s ]
+
+[ 2017-03-26T15:22:29+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003723s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015430s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.055004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003961s ]
+
+[ 2017-03-26T15:24:05+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005862s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015674s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.049528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003352s ]
+
+[ 2017-03-26T15:25:36+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003926s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.014690s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.045428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002830s ]
+
+[ 2017-03-26T15:26:18+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005824s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.016512s ]
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.042762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003523s ]
+
+[ 2017-03-26T15:26:36+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004030s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015236s ]
+SQL: UPDATE user SET TelNO = 15924877988 , Password = 456789 WHERE SchoolID = 13008038 [ RunTime:0.086257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002655s ]
+
+[ 2017-03-26T15:26:54+08:00 ] 192.168.199.244 /onlineexamtest/index/others/updateuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005849s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.018058s ]
+SQL: UPDATE user SET TelNO = 18502410459 , Password = 123456 WHERE SchoolID = 13008038 [ RunTime:0.051117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-03-26T15:56:07+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003359s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.052873s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.002639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.041783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.042762s ]
+
+[ 2017-03-26T15:56:07+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.028886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.060932s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.196626s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.001906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005332s ]
+
+[ 2017-03-26T15:57:08+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003918s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015097s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 123456 [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002509s ]
+
+[ 2017-03-26T15:57:17+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003789s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.019104s ]
+SQL: select DISTINCT c.CourseID,c.CourseName,c.CreateDate,c.DeadLine,c.Context from course c
+				left join course_student cs on cs.CourseID = c.CourseID
+				right join course_question cq on cq.CourseID = c.CourseID
+				where cs.StudentID = 13008038 and cs.IsAnswered = 0 [ RunTime:0.128102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2017-03-26T15:57:17+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004461s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015752s ]
+SQL: SELECT q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				WHERE c.CourseID = 2 [ RunTime:0.032848s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003021s ]
+
+[ 2017-03-26T15:57:46+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004628s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.022308s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.000841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002683s ]
+
+[ 2017-03-26T16:12:41+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045614s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.019069s ]
+SQL: select DISTINCT c.CourseID,c.CourseName,c.CreateDate,c.DeadLine,c.Context from course c
+				left join course_student cs on cs.CourseID = c.CourseID
+				right join course_question cq on cq.CourseID = c.CourseID
+				where cs.StudentID = 14104015 and cs.IsAnswered = 0 [ RunTime:0.003278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.017632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018151s ]
+
+[ 2017-03-26T16:13:01+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004259s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.015627s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.001532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004193s ]
+
+[ 2017-03-26T16:13:33+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004395s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.020405s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 46678 [ RunTime:0.000883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002699s ]
+
+[ 2017-03-26T16:13:44+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005964s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.013589s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 466789 [ RunTime:0.000901s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003237s ]
+
+[ 2017-03-26T16:13:56+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005260s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.014732s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 123456 [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003003s ]
+
+[ 2017-03-26T16:15:37+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013999s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.007277s ]
+SQL: select * from user where SchoolID = 14104015 and Password = 123456 [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001572s ]
+
+[ 2017-03-26T16:41:45+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005433s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.126821s ]
+SQL: select DISTINCT c.CourseID,c.CourseName,c.CreateDate,c.DeadLine,c.Context from course c
+				left join course_student cs on cs.CourseID = c.CourseID
+				right join course_question cq on cq.CourseID = c.CourseID
+				where cs.StudentID = 14104015 and cs.IsAnswered = 0 [ RunTime:0.173508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.035924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036939s ]
+
+[ 2017-03-26T17:01:53+08:00 ] 192.168.199.231 /onlineexamtest/index/texam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.016949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019181s ]
+ERR: 无法加载控制器:Texam
+
+[ 2017-03-26T17:02:38+08:00 ] 192.168.199.231 /onlineexamtest/index/exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007172s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.051812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.020815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021520s ]
+
+[ 2017-03-26T17:02:45+08:00 ] 192.168.199.231 /onlineexamtest/index/texam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+ERR: 无法加载控制器:Texam
+
+[ 2017-03-26T17:02:49+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+
+[ 2017-03-26T17:03:32+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.011054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001830s ]
+
+[ 2017-03-26T17:03:36+08:00 ] 192.168.199.231 /onlineexamtest/index/texam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+ERR: 无法加载控制器:Texam
+
+[ 2017-03-26T17:03:40+08:00 ] 192.168.199.231 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001704s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.054278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002613s ]
+
+[ 2017-03-26T20:34:18+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.055884s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.106726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.035904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036883s ]
+
+[ 2017-03-26T20:34:19+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007479s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.066705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005234s ]
+
+[ 2017-03-26T20:35:05+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004050s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.019043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002781s ]
+
+[ 2017-03-26T20:38:06+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002902s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.047719s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.026765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.005343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006235s ]
+
+[ 2017-03-26T20:45:40+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.029185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.059258s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.118952s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.042630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.064504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.065261s ]
+
+[ 2017-03-26T20:47:31+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003857s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.021896s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.050707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-03-26T20:49:36+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006664s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.048524s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.002211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003718s ]
+
+[ 2017-03-26T20:51:08+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005418s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.035729s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.015636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004091s ]
+
+[ 2017-03-26T20:53:27+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007946s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.021233s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.020088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004579s ]
+
+[ 2017-03-26T20:58:33+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006097s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.028503s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.016254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001815s ]
+
+[ 2017-03-26T21:00:17+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.035041s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.001724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004540s ]
+
+[ 2017-03-26T21:02:19+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010079s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.013120s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.001329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003162s ]
+
+[ 2017-03-26T21:04:21+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006864s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.047424s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.001568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004378s ]
+
+[ 2017-03-26T21:08:43+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007347s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.025594s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.024142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002931s ]
+
+[ 2017-03-26T21:19:25+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.073178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.221508s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.244479s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.039422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.039949s ]
+
+[ 2017-03-26T21:19:26+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008419s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.082885s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.001420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004972s ]
+
+[ 2017-03-26T21:46:53+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020827s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.072651s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.001919s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.024093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.024378s ]
+
+[ 2017-03-26T21:59:29+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016443s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.042012s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.003822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002884s ]
+
+[ 2017-03-26T22:08:42+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.172977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.212413s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.009800s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.030532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.074168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.074856s ]
+
+[ 2017-03-26T22:08:43+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003094s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.060173s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.000846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003343s ]
+
+[ 2017-03-26T22:09:31+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004083s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.019935s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.020941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002861s ]
+
+[ 2017-03-26T22:14:38+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.029216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.044612s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.165220s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.042360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.020977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021506s ]
+
+[ 2017-03-26T22:14:39+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003016s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.090934s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.063340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005108s ]
+
+[ 2017-03-26T22:26:23+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.040148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.072179s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.020103s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.026808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.029976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030879s ]
+
+[ 2017-03-26T22:36:46+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.040571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.059609s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.108125s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.017121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.049734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.050413s ]
+
+[ 2017-03-26T22:42:11+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.028900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.061090s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.121193s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.003445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.040289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.040827s ]
+
+[ 2017-03-26T22:42:11+08:00 ] 192.168.199.244 /onlineexamtest/index/t_exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007075s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.036287s ]
+SQL: SELECT ct.CourseID,q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				LEFT JOIN course_teacher ct ON ct.CourseID = c.CourseID
+				WHERE ct.TeacherID = 14104015 [ RunTime:0.023667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003523s ]
+
+[ 2017-03-26T22:45:22+08:00 ] 192.168.199.244 /onlineexamtest/index/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004811s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.017302s ]
+SQL: select * from user where SchoolID = 13008038 and Password = 123456 [ RunTime:0.001247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003346s ]
+
+[ 2017-03-26T22:45:38+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003555s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.013587s ]
+SQL: select DISTINCT c.CourseID,c.CourseName,c.CreateDate,c.DeadLine,c.Context from course c
+				left join course_student cs on cs.CourseID = c.CourseID
+				right join course_question cq on cq.CourseID = c.CourseID
+				where cs.StudentID = 13008038 and cs.IsAnswered = 0 [ RunTime:0.013818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002609s ]
+
+[ 2017-03-26T22:45:38+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005167s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.017486s ]
+SQL: SELECT q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				WHERE c.CourseID = 1 [ RunTime:0.032650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003551s ]
+
+[ 2017-03-26T22:45:38+08:00 ] 192.168.199.244 /onlineexamtest/index/exam/getquestion
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004901s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\OnlineExamTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.015836s ]
+SQL: SELECT q.QuestionID,q.Question,q.ChoiceA,q.ChoiceB,q.ChoiceC,q.ChoiceD,q.Answer,q.Score FROM question q 
+				LEFT JOIN course_question cq ON cq.QuestionID = q.QuestionID
+				LEFT JOIN course c ON c.CourseID = cq.CourseID
+				WHERE c.CourseID = 2 [ RunTime:0.001713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003402s ]
+
